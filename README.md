@@ -7,3 +7,5 @@ Chad: Who's there?
 Dan: A broken pencil
 
 Chad: A broken pencil who?
+
+Dan: Nevermind. It’s pointless.
